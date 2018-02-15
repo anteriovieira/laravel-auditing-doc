@@ -20,5 +20,5 @@
     - [Auditable Transition](/docs/{{version}}/auditable-transition)
     - [Auditor](/docs/{{version}}/auditor)
 - Help
-    - [Problems?](problems)
+    - [Problems?](problems.md)
     - [Troubleshooting](/docs/{{version}}/troubleshooting)
