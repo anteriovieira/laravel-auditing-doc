@@ -1,1 +1,3 @@
-{% include "./documentation.md" %}
+
+- Help {{ book.language }}
+    - [Problems?](problems.md)
