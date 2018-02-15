@@ -2,7 +2,7 @@
 
 {% include "./documentation.md" %}
 
-{{ book.language }}
+{% book.language %}
 
 {{ version }}
 
