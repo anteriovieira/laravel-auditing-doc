@@ -18,5 +18,8 @@
         {"pattern": "doc", "flags": "g", "substitute": "__doc"}
       ]
     }
+  },
+  "variables": {
+    "version": "../../"
   }
 }
