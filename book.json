@@ -12,7 +12,7 @@
     },
     "regexplace": {
       "substitutes": [
-        {"pattern": "\/doc\/", "flags": "g", "substitute": "laravel"}
+        {"pattern": "\/docs\/\{\{version\}\}\/", "flags": "g", "substitute": "''"}
       ]
     }
   }
