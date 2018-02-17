@@ -3,7 +3,7 @@
   "gitbook": ">3.0.0",
   "plugins": ["edit-link", "theme-vuejs", "-fontsettings", "github", "laravel-auditing"],
   "structure": {
-    "structure.summary": "documentation.md",
+    "summary": "documentation.md",
   },
   "pluginsConfig": {
     "edit-link": {
