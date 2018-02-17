@@ -1,1 +1,1 @@
-- [doc](/doc/{{version}}/audit-tags.md)
+- [doc](/doc/{{version}}/audit-tags)
