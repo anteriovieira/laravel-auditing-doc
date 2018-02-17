@@ -1,3 +1,5 @@
+doc
+
 - Essentials
     - [Introduction](/docs/{{version}}/introduction)
     - [Installation](/docs/{{version}}/installation)

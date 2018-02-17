@@ -12,7 +12,7 @@
     },
     "regexplace": {
       "substitutes": [
-        {"pattern": "docs", "flags": "g", "substitute": "__doc"}
+        {"pattern": "doc", "flags": "g", "substitute": "__doc"}
       ]
     }
   }
