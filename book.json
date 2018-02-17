@@ -1,14 +1,19 @@
 {
   "title": "laravel-auditing",
   "gitbook": ">3.0.0",
-  "plugins": ["edit-link", "theme-vuejs", "-fontsettings", "github", "laravel-auditing"],
+  "plugins": ["edit-link", "theme-vuejs", "-fontsettings", "github", "regexplace"],
   "pluginsConfig": {
     "edit-link": {
-      "base": "https://github.com/owen-it/laravel-auditing-doc",
+      "base": "https://github.com/owen-it/laravel-auditing-doc/master",
       "label": "Edit This Page"
     },
     "github": {
       "url": "https://github.com/owen-it/laravel-auditing"
+    },
+    "regexplace": {
+      "substitutes": [
+        {"pattern": "\/doc\/", "flags": "g", "substitute": "laravel"}
+      ]
     }
   }
 }
